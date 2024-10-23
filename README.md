@@ -71,7 +71,7 @@ JSON (application/json)
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+# Acknowledgments
 This project uses the following dependencies:
 Express.js
 MongoDB
